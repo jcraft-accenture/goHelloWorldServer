@@ -17,6 +17,7 @@ Test1
 ``` 
 
 khkk - The Terraform Sorcerer was here; added must be Pull request; trying complete pipeline with Pull logic for test step
+Exercise #3(a) - Skip if README.md is updated
 
   
    
