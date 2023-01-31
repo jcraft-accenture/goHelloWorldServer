@@ -16,7 +16,7 @@ Hello, Nofar
 Test1
 ``` 
 
-khkk - The Terraform Sorcerer was here; added must be Pull request
+khkk - The Terraform Sorcerer was here; added must be Pull request; trying complete pipeline with Pull logic for test step
 
   
    
